@@ -1,7 +1,7 @@
 import {MongoClient} from "mongodb";
 
 // Replace the uri string with your MongoDB deployment's connection string.
-const uri = "mongodb://localhost:27017";
+const uri = "mongodb+srv://test:test@nextjs-demo.kpiylfo.mongodb.net/?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
 async function run() {
   try {
