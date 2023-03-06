@@ -6,3 +6,4 @@
 4) Type `node src/script/setupMongo.mjs`
 5) Type `npm run dev`
 6) Navigate to `http://localhost:3000`
+
